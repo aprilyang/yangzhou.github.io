@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[8007],{7891:function(e){e.exports=JSON.parse('{"allTagsPath":"/yangzhou.github.io/blog/tags","slug":"/yangzhou.github.io/blog/tags/weekly-report","name":"weekly-report","count":21,"permalink":"/yangzhou.github.io/blog/tags/weekly-report"}')}}]);

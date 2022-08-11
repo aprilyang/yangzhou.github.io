@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[1090],{2815:function(a){a.exports=JSON.parse('{"allTagsPath":"/yangzhou.github.io/blog/tags","slug":"/yangzhou.github.io/blog/tags/updates","name":"updates","count":24,"permalink":"/yangzhou.github.io/blog/tags/updates"}')}}]);

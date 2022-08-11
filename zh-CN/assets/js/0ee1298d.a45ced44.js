@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[5826],{9798:function(e){e.exports=JSON.parse('{"permalink":"/yangzhou.github.io/zh-CN/blog/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":25,"previousPage":"/yangzhou.github.io/zh-CN/blog","nextPage":"/yangzhou.github.io/zh-CN/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
